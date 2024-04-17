@@ -1,0 +1,27 @@
+- src
+  - assets // Para armazenar ativos como imagens, fontes, etc.
+  - components // Componentes React reutilizáveis
+    - Button.js
+    - Input.js
+    - ...
+  - controllers // Lógica do controlador
+    - AuthController.js
+    - NavigationController.js
+    - ...
+  - models // Lógica de dados
+    - UserModel.js
+    - PetModel.js
+    - ...
+  - screens // Telas da aplicação
+    - HomeScreen.js
+    - ProfileScreen.js
+    - ...
+  - services // Serviços, como requisições HTTP, notificações push, etc.
+    - ApiService.js
+    - PushNotificationService.js
+    - ...
+  - styles // Estilos da aplicação
+    - globalStyles.js // Estilos globais
+    - HomeScreenStyles.js
+    - ProfileScreenStyles.js
+    - ...
